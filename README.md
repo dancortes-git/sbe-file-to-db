@@ -1,7 +1,6 @@
-# Spring Batch Examples - Db To File
+# Spring Batch Examples - File To DB
 
-Project with examples using Spring Batch
-In this project there are configurations regarding ETL: Db to file.
+Project with examples using Spring Batch. In this project there are configurations regarding ETL: File to DB, ugin FlatFileItemReader and JdbcBatchItemWriter.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
